@@ -29,7 +29,7 @@ Once built into Forgerock, two nodes will be available.
 
 ## Installation Steps
 
-1. Download the latest version of the Jumio integration jar from . ..
+1. Download the latest version of the Jumio integration jar from [here](https://github.com/ForgeRock/Jumio-Auth-Tree-Node/releases/latest).
 2. Copy the jar file to the **WEB-INF/lib/** folder where AM is deployed.
 3. Restart the AM for the new plug-in to become available.
 

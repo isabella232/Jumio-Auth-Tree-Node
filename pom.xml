@@ -23,7 +23,7 @@
     <artifactId>jumioAuthNode</artifactId>
 
     <groupId>com.jumio</groupId>
-    <version>1.0.0-SNAPSHOT</version>    
+    <version>1.0.1-SNAPSHOT</version>
     <name>Jumio Auth Node</name>
     <description>An Authentication Tree Node for Jumio Netverify</description>
 
